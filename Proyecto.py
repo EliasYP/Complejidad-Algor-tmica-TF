@@ -1,5 +1,4 @@
-import os
-os.environ['LOKY_MAX_CPU_COUNT'] = '4'  # Ajusta el valor según el número de núcleos que deseas usar
+
 
 import pandas as pd
 import numpy as np
